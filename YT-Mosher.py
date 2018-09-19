@@ -11,8 +11,8 @@ import datetime
 
 
 #EDIT VALUES TO DETERMINE LENGTH AND CONTENT OF OUTPUT
-iterations = 100
-word_array = ['ASMR', 'pink noise', 'vine complation', 'slow tv']
+iterations = 10
+word_array = ['ASMR', 'pink noise', 'vine complation', 'slow tv', 'banana', 'octupus hat', 'boring', 'manitee']
 x=0
 while x < iterations:
     print('BEGIN'+str(x)+'/////////////////////')
